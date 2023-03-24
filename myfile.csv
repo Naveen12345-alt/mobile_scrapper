@@ -1,0 +1,224 @@
+,0,1,2
+0,64 Bit,64 Bit support,Mediatek MT8735
+1,Architecture,ARM,Mediatek MT8735
+2,64 Bit,64 Bit support,Mediatek MT6753 (28 nm)
+3,Architecture,ARM,Mediatek MT6753 (28 nm)
+4,64 Bit,64 Bit support,Mediatek MT6737 (28 nm)
+5,Architecture,ARM,Mediatek MT6737 (28 nm)
+6,64 Bit,64 Bit support,Mediatek MT6753 (28 nm)
+7,Architecture,ARM,Mediatek MT6753 (28 nm)
+8,64 Bit,64 Bit support,Mediatek MT6735 (28 nm)
+9,Architecture,ARM,Mediatek MT6735 (28 nm)
+10,64 Bit,64 Bit support,Mediatek MT6580 - Z525Mediatek MT6735 - Z525
+11,Architecture,ARM,Mediatek MT6580 - Z525Mediatek MT6735 - Z525
+12,64 Bit,64 Bit support,Mediatek MT6753 (28 nm)
+13,Architecture,ARM,Mediatek MT6753 (28 nm)
+14,64 Bit,64 Bit support,Mediatek MT6735 (28 nm)
+15,Architecture,ARM,Mediatek MT6735 (28 nm)
+16,64 Bit,64 Bit support,Mediatek MT6753 (28 nm)
+17,Architecture,ARM,Mediatek MT6753 (28 nm)
+18,64 Bit,64 Bit support,Mediatek MT6735 (28 nm)
+19,Architecture,ARM,Mediatek MT6735 (28 nm)
+20,64 Bit,64 Bit support,Intel Atom Z3735F
+21,Architecture,x86,Intel Atom Z3735F
+22,64 Bit,64 Bit support,Intel Atom Z3735G
+23,Architecture,x86,Intel Atom Z3735G
+24,Architecture,ARM,Mediatek MT8127 (28 nm)
+25,Architecture,ARM,Mediatek MT8127 (28 nm)
+26,64 Bit,64 Bit support,Mediatek MT6732 (28 nm)
+27,Architecture,ARM,Mediatek MT6732 (28 nm)
+28,Architecture,ARM,Mediatek MT6582M (28 nm)
+29,Architecture,ARM,Mediatek MT6582M (28 nm)
+30,64 Bit,64 Bit support,Mediatek MT6732M (28 nm)
+31,Architecture,ARM,Mediatek MT6732M (28 nm)
+32,64 Bit,64 Bit support,Mediatek MT6752M
+33,Architecture,ARM,Mediatek MT6752M
+34,Architecture,ARM,Mediatek MT6582 (28 nm)
+35,Architecture,ARM,Mediatek MT6592 (28 nm)
+36,Architecture,ARM,Mediatek MT6582 (28 nm)
+37,Architecture,ARM,Mediatek MT6582 (28 nm)
+38,Architecture,ARM,Mediatek MT6572M (28 nm)
+39,64 Bit,64 Bit support,Intel Atom Z3745
+40,Architecture,x86,Intel Atom Z3745
+41,64 Bit,64 Bit support,Intel Atom Z3745
+42,Architecture,x86,Intel Atom Z3745
+43,Architecture,x86,Intel Atom Z2560
+44,Architecture,ARM,Mediatek MT6589 (28 nm)
+45,Architecture,ARM,Mediatek MT6589 (28 nm)
+46,Architecture,ARM,Mediatek MT6572 (28 nm)
+47,Architecture,ARM,Mediatek MT8312 (28 nm)
+48,Architecture,x86,Intel Atom Z2560
+49,Architecture,ARM,Mediatek MT6572 (28 nm)
+50,Architecture,ARM,Mediatek MT6572 (28 nm)
+51,Architecture,ARM,Mediatek MT6589 (28 nm)
+52,Architecture,ARM,Mediatek MT8125T - Wi-FiMediatek MT8389W - 3G
+53,Architecture,ARM,Mediatek MT8125T - Wi-FiMediatek MT8389W - 3G
+54,Architecture,ARM,Mediatek MT8389W
+55,Architecture,ARM,Mediatek MT8125 (28 nm)
+56,Architecture,ARM,Mediatek MT6589 (28 nm)
+57,Architecture,ARM,Qualcomm Snapdragon S1 MSM7227A
+58,Architecture,ARM,Qualcomm Snapdragon S1 MSM7227A
+59,64 Bit,64 Bit support,Intel Atom Z2420
+60,Architecture,x86,Intel Atom Z2420
+61,Architecture,ARM,Mediatek MT6577 (40 nm)
+62,Architecture,ARM,Mediatek MT8317T
+63,Architecture,ARM,Mediatek MT8317
+64,Architecture,ARM,Nvidia Tegra 3 T30L
+65,Architecture,ARM,Mediatek MT6575 (40 nm)
+66,Architecture,ARM,Mediatek MT6575 (40 nm)
+67,Architecture,ARM,Mediatek MT6575 (40 nm)
+68,Architecture,ARM,Qualcomm Snapdragon S1 MSM7227A
+69,Architecture,ARM,Qualcomm Snapdragon S1 MSM7227A
+70,Architecture,ARM,Qualcomm Snapdragon S4 Plus MSM8260A
+71,Architecture,ARM,Nvidia Tegra 3
+72,Architecture,ARM,Nvidia Tegra 3
+73,Architecture,ARM,Nvidia Tegra 3
+74,Architecture,ARM,Nvidia Tegra 3
+75,Architecture,ARM,Nvidia Tegra 3
+76,Architecture,ARM,Qualcomm Snapdragon S2 MSM8255
+77,Architecture,ARM,Qualcomm Snapdragon S1 MSM7227T-1
+78,Architecture,ARM,Qualcomm Snapdragon S2 MSM8255-1
+79,Architecture,ARM,Qualcomm Snapdragon S1 MSM7227
+80,Architecture,ARM,Qualcomm Snapdragon S1 MSM7227
+81,Architecture,ARM,Qualcomm Snapdragon S1 MSM7227
+82,Architecture,ARM,Qualcomm Snapdragon S1 MSM7227
+83,Architecture,ARM,Qualcomm Snapdragon S1 QSD8250
+84,Architecture,ARM,Qualcomm Snapdragon S1 QSD8250
+85,Architecture,ARM,Qualcomm Snapdragon S1 MSM7227
+86,Architecture,ARM,Qualcomm Snapdragon S1 MSM7227
+87,Architecture,ARM,Qualcomm Snapdragon S1 MSM7227
+88,Architecture,ARM,Qualcomm Snapdragon S1 MSM7227
+89,Architecture,ARM,Qualcomm Snapdragon S1 MSM7225
+90,Architecture,ARM,Qualcomm Snapdragon S1 QSD8250
+91,Architecture,ARM,Qualcomm Snapdragon S1 QSD8250
+92,Architecture,ARM,Qualcomm Snapdragon S1 MSM7225
+93,Architecture,ARM,Qualcomm Snapdragon S1 MSM7225
+94,Architecture,ARM,Qualcomm Snapdragon S1 MSM7225
+95,64 Bit,64 Bit support,Unisoc SC9863A (28nm)
+96,Architecture,ARM,Unisoc SC9863A (28nm)
+97,64 Bit,64 Bit support,Mediatek MT6739 (28 nm)
+98,Architecture,ARM,Mediatek MT6739 (28 nm)
+99,64 Bit,64 Bit support,Unisoc SC9863A (28nm)
+100,Architecture,ARM,Unisoc SC9863A (28nm)
+101,64 Bit,64 Bit support,MediaTek MT8766B
+102,Architecture,ARM,MediaTek MT8766B
+103,64 Bit,64 Bit support,Qualcomm QM215 Snapdragon 215 (28 nm)
+104,Architecture,ARM,Qualcomm QM215 Snapdragon 215 (28 nm)
+105,64 Bit,64 Bit support,Unisoc SC9863A (28nm)
+106,Architecture,ARM,Unisoc SC9863A (28nm)
+107,64 Bit,64 Bit support,Mediatek MT6739 (28 nm) - EuropeQualcomm SDM429 Snapdragon 429 (12 nm)
+108,Architecture,ARM,Mediatek MT6739 (28 nm) - EuropeQualcomm SDM429 Snapdragon 429 (12 nm)
+109,64 Bit,64 Bit support,Qualcomm SDM439 Snapdragon 439 (12 nm)
+110,Architecture,ARM,Qualcomm SDM439 Snapdragon 439 (12 nm)
+111,64 Bit,64 Bit support,Mediatek MT6739 (28 nm)
+112,Architecture,ARM,Mediatek MT6739 (28 nm)
+113,Architecture,ARM,Spreadtrum SC7731E
+114,64 Bit,64 Bit support,Mediatek MT6739 (28 nm)
+115,Architecture,ARM,Mediatek MT6739 (28 nm)
+116,64 Bit,64 Bit support,Mediatek MT6739WM (28 nm)
+117,Architecture,ARM,Mediatek MT6739WM (28 nm)
+118,64 Bit,64 Bit support,Mediatek MT6750 (28 nm)
+119,Architecture,ARM,Mediatek MT6750 (28 nm)
+120,64 Bit,64 Bit support,Mediatek MT8735A
+121,Architecture,ARM,Mediatek MT8735A
+122,64 Bit,64 Bit support,Mediatek MT6739 (28 nm)
+123,Architecture,ARM,Mediatek MT6739 (28 nm)
+124,64 Bit,64 Bit support,Mediatek MT6739 (28 nm)
+125,Architecture,ARM,Mediatek MT6739 (28 nm)
+126,64 Bit,64 Bit support,Mediatek MT6739 (28 nm)
+127,Architecture,ARM,Mediatek MT6739 (28 nm)
+128,Architecture,ARM,Mediatek MT8321 (28 nm)
+129,Architecture,ARM,Mediatek MT8321 (28 nm)
+130,Architecture,ARM,Mediatek MT8321A/D (28 nm)
+131,64 Bit,64 Bit support,Mediatek MT6753 (28 nm)
+132,Architecture,ARM,Mediatek MT6753 (28 nm)
+133,64 Bit,64 Bit support,Mediatek MT6750S (28 nm)
+134,Architecture,ARM,Mediatek MT6750S (28 nm)
+135,64 Bit,64 Bit support,Mediatek MT6750S (28 nm)
+136,Architecture,ARM,Mediatek MT6750S (28 nm)
+137,64 Bit,64 Bit support,Mediatek MT6750T (28 nm)
+138,Architecture,ARM,Mediatek MT6750T (28 nm)
+139,64 Bit,64 Bit support,Mediatek MT6750T (28 nm)
+140,Architecture,ARM,Mediatek MT6750T (28 nm)
+141,64 Bit,64 Bit support,Mediatek MT6737 (28 nm)
+142,Architecture,ARM,Mediatek MT6737 (28 nm)
+143,64 Bit,64 Bit support,Qualcomm MSM8953 Snapdragon 625 (14 nm)
+144,Architecture,ARM,Qualcomm MSM8953 Snapdragon 625 (14 nm)
+145,64 Bit,64 Bit support,Mediatek MT6737M (28 nm)
+146,Architecture,ARM,Mediatek MT6737M (28 nm)
+147,64 Bit,64 Bit support,Mediatek MT6753 (28 nm)
+148,Architecture,ARM,Mediatek MT6753 (28 nm)
+149,64 Bit,64 Bit support,Mediatek MT6737 (28 nm)
+150,Architecture,ARM,Mediatek MT6737 (28 nm)
+151,64 Bit,64 Bit support,Mediatek MT8735B
+152,Architecture,ARM,Mediatek MT8735B
+153,64 Bit,64 Bit support,Mediatek MT6737 (28 nm)
+154,Architecture,ARM,Mediatek MT6737 (28 nm)
+155,Architecture,ARM,Mediatek MT8321 (28 nm)
+156,Architecture,ARM,Mediatek MT6580M (28 nm)
+157,Architecture,ARM,Mediatek MT6572M (28 nm)
+158,64 Bit,64 Bit support,Mediatek MT6753 (28 nm)
+159,Architecture,ARM,Mediatek MT6753 (28 nm)
+160,Architecture,ARM,Mediatek MT8127 (28 nm)
+161,Architecture,ARM,Spreadtrum 7731
+162,64 Bit,64 Bit support,Mediatek MT6735P (28 nm)
+163,Architecture,ARM,Mediatek MT6735P (28 nm)
+164,64 Bit,64 Bit support,Mediatek MT6735P (28 nm)
+165,Architecture,ARM,Mediatek MT6735P (28 nm)
+166,64 Bit,64 Bit support,Mediatek MT6752M
+167,Architecture,ARM,Mediatek MT6752M
+168,64 Bit,64 Bit support,Mediatek MT6732 (28 nm)
+169,Architecture,ARM,Mediatek MT6732 (28 nm)
+170,Architecture,ARM,Mediatek MT6592M (28 nm)
+171,Architecture,ARM,Mediatek MT8312 (28 nm)
+172,Architecture,ARM,Mediatek MT8312 (28 nm)
+173,Architecture,ARM,Mediatek MT8127 (28 nm)
+174,64 Bit,64 Bit support,Mediatek MT6572M (3G model)MT6735M (4G model)
+175,Architecture,ARM,Mediatek MT6572M (3G model)MT6735M (4G model)
+176,64 Bit,64 Bit support,Mediatek MT6572M (3G model)MT6735M (4G model)
+177,Architecture,ARM,Mediatek MT6572M (3G model)MT6735M (4G model)
+178,Architecture,ARM,Mediatek MT6572M (3G model)MT6735M (4G model)
+179,Architecture,ARM,Mediatek MT6572M (3G model)Qualcomm MSM8909 (4G model)
+180,Architecture,ARM,Mediatek MT6572M (28 nm)
+181,Architecture,ARM,Mediatek MT6572M (28 nm)
+182,Architecture,ARM,Mediatek MT6592 (28 nm)
+183,Architecture,ARM,Mediatek MT8312 (28 nm)
+184,Architecture,ARM,Mediatek MT6589 (28 nm)
+185,Architecture,ARM,Mediatek MT6575 (40 nm)
+186,Architecture,ARM,Mediatek MT6572 (28 nm)
+187,Architecture,ARM,Rockchip RK3066
+188,Architecture,ARM,Mediatek MT6589 (28 nm)
+189,Architecture,ARM,Mediatek MT6589 (28 nm)
+190,Architecture,ARM,Mediatek MT6577 (40 nm)
+191,Architecture,ARM,Mediatek MT6572 (28 nm)
+192,Architecture,ARM,Mediatek MT6589 (28 nm)
+193,Architecture,ARM,Mediatek MT6589 (28 nm)
+194,Architecture,ARM,Qualcomm Snapdragon S1 MSM7227A
+195,Architecture,ARM,Qualcomm Snapdragon S1 MSM7227A
+196,Architecture,ARM,Mediatek MT6577 (40 nm)
+197,Architecture,ARM,Qualcomm Snapdragon S4 Play MSM8225
+198,Architecture,ARM,Qualcomm Snapdragon S4 Play MSM8225
+199,Architecture,ARM,Rockchip 3066
+200,Architecture,ARM,Mediatek MT6577 (40 nm)
+201,Architecture,ARM,Mediatek MT6577 (40 nm)
+202,Architecture,ARM,Mediatek MT6575 (40 nm)
+203,Architecture,ARM,Mediatek MT6575 (40 nm)
+204,Architecture,ARM,Mediatek MT6575 (40 nm)
+205,Architecture,ARM,Mediatek MT6577 (40 nm)
+206,Architecture,ARM,Mediatek MT6589 (28 nm)
+207,Architecture,ARM,Mediatek MT6589 (28 nm)
+208,Architecture,ARM,Mediatek MT6589 (28 nm)
+209,Architecture,ARM,Mediatek MT6577 (40 nm)
+210,Architecture,ARM,Mediatek MT6577 (40 nm)
+211,Architecture,ARM,Mediatek MT6577 (40 nm)
+212,Architecture,ARM,Mediatek MT6575 (40 nm)
+213,Architecture,ARM,Qualcomm Snapdragon S2 MSM8255T
+214,64 Bit,64 Bit support,Qualcomm SDM630 Snapdragon 630 (14 nm)
+215,Architecture,ARM,Qualcomm SDM630 Snapdragon 630 (14 nm)
+216,Architecture,ARM,Mediatek MT8321 (28 nm)
+217,64 Bit,64 Bit support,Mediatek MT6739 (28 nm)
+218,Architecture,ARM,Mediatek MT6739 (28 nm)
+219,Architecture,ARM,Mediatek MT8163
+220,Architecture,ARM,Mediatek MT8163
+221,Architecture,ARM,Mediatek MT8321A (28 nm)
+222,Architecture,ARM,Mediatek MT8321A (28 nm)
